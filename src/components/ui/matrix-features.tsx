@@ -126,7 +126,7 @@ export function PlatformFeatures() {
                         </tr>
                         <tr className="hover:bg-black/5 transition-colors bg-lavender-glow/5">
                           <td className="px-6 py-4 font-bold text-mysteria-purple">V7</td>
-                          <td className="px-6 py-4">{t('table.v7.achieve')}</td>
+                          <td className="px-6 py-4">You need 1 V5s.</td>
                           <td className="px-6 py-4 text-right">8,000 USDT</td>
                           <td className="px-6 py-4 text-right">7%</td>
                           <td className="px-6 py-4 text-charcoal-ink/60 text-xs">{t('table.v7.notes')}</td>
